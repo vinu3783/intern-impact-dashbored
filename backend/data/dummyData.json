@@ -1,0 +1,93 @@
+{
+  "interns": [
+    {
+      "id": "vinayaka-gc",
+      "name": "Vinayaka GC",
+      "email": "vinayaka@mission.com",
+      "referralCode": "vinayaka2025",
+      "totalDonations": 7250,
+      "missionsCompleted": 12,
+      "treesPlanted": 145,
+      "livesImpacted": 29,
+      "joinDate": "2025-01-01",
+      "level": 2,
+      "badge": "silver",
+      "achievements": [
+        "First Donation",
+        "Weekend Warrior",
+        "Impact Maker"
+      ]
+    },
+    {
+      "id": "sarah-chen",
+      "name": "Sarah Chen",
+      "email": "sarah@mission.com",
+      "referralCode": "sarah2025",
+      "totalDonations": 12500,
+      "missionsCompleted": 25,
+      "treesPlanted": 250,
+      "livesImpacted": 50,
+      "joinDate": "2025-01-05",
+      "level": 3,
+      "badge": "gold",
+      "achievements": [
+        "First Donation",
+        "Century Club",
+        "Gold Standard"
+      ]
+    },
+    {
+      "id": "raj-patel",
+      "name": "Raj Patel",
+      "email": "raj@mission.com",
+      "referralCode": "raj2025",
+      "totalDonations": 4800,
+      "missionsCompleted": 8,
+      "treesPlanted": 96,
+      "livesImpacted": 19,
+      "joinDate": "2025-01-10",
+      "level": 1,
+      "badge": "bronze",
+      "achievements": [
+        "First Donation",
+        "Rising Star"
+      ]
+    },
+    {
+      "id": "emma-wilson",
+      "name": "Emma Wilson",
+      "email": "emma@mission.com",
+      "referralCode": "emma2025",
+      "totalDonations": 9200,
+      "missionsCompleted": 18,
+      "treesPlanted": 184,
+      "livesImpacted": 37,
+      "joinDate": "2025-01-03",
+      "level": 2,
+      "badge": "silver",
+      "achievements": [
+        "First Donation",
+        "Consistency Champion",
+        "Tree Hugger"
+      ]
+    },
+    {
+      "id": "alex-kumar",
+      "name": "Alex Kumar",
+      "email": "alex@mission.com",
+      "referralCode": "alex2025",
+      "totalDonations": 15000,
+      "missionsCompleted": 30,
+      "treesPlanted": 300,
+      "livesImpacted": 60,
+      "joinDate": "2024-12-20",
+      "level": 3,
+      "badge": "gold",
+      "achievements": [
+        "First Donation",
+        "Elite Contributor",
+        "Mission Master"
+      ]
+    }
+  ]
+}
