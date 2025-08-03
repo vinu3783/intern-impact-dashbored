@@ -37,7 +37,7 @@ Setup Instructions
 
 Clone the Repository
 
-bashgit clone https://github.com/vinayakagc/mission-impact-dashboard.git
+bashgit clone [https://github.com/vinayakagc/mission-impact-dashboard.git](https://github.com/vinu3783/intern-impact-dashbored)
 cd mission-impact-dashboard
 
 Backend Setup
@@ -224,3 +224,4 @@ Check .env file has correct API URL
 Module not found
 bashrm -rf node_modules package-lock.json
 npm install
+
